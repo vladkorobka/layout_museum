@@ -146,6 +146,10 @@ body {
   vertical-align: baseline;
 }
 
+.no-scroll {
+  overflow: hidden;
+}
+
 input:-webkit-autofill,
 input:-webkit-autofill:hover,
 input:-webkit-autofill:focus,
