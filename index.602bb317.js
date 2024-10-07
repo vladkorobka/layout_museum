@@ -1,0 +1,2 @@
+var e=document.querySelector('a[href="#top-menu"]'),n=document.querySelector('a[href="#home"]'),t=document.querySelectorAll(".nav__item"),c=function(){return document.body.classList.remove("no-scroll")};e.addEventListener("click",function(){return document.body.classList.add("no-scroll")}),n.addEventListener("click",c),t.forEach(function(e){return e.addEventListener("click",c)});
+//# sourceMappingURL=index.602bb317.js.map
