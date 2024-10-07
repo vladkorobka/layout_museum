@@ -1,6 +1,6 @@
 # National Museum
 
-The National Museum of Ukraine landing page is a responsive website designed using HTML, SASS, and the BEM methodology. It features a structured navigation menu with links to **Gallery**, **Exhibitions and Events**, **About Us**, and **Contacts**.
+The National Museum of Ukraine landing page is a responsive website designed using **HTML**, **SASS**, and the **BEM methodology**. It features a structured navigation menu with links to **Gallery**, **Exhibitions and Events**, **About Us**, and **Contacts**.
 The layout begins with a header containing a prominent **Tickets** button and a large main image, followed by a schedule section displaying the museum's hours and upcoming activities. Below, the current events section showcases a list of actual events with images, dates, names, and brief descriptions.
 Further down, the lecture section provides details about upcoming lectures, and the gallery section offers a curated collection of images. The footer includes a subscription form for email updates, social media links, a repeat of the navigation menu, the schedule, and contact details.
 This page offers a clean and informative design, ensuring ease of navigation and accessibility.
